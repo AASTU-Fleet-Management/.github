@@ -4,7 +4,7 @@ This is a project for AASTU to manage the fleet and booking of the fleets.
 
 <div align="center">
   <kbd>
-    <img src="https://" />
+    <img src="../AASTU Logo 2b (1).jpg" height="400" width="400" />
   </kbd>
 </div>
 
